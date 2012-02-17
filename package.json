@@ -2,13 +2,9 @@
   "name": "cupboard-npm",
   "description": "",
   "version": "0.0.1",
-  "repository": {
-  },
-  "engines": {
-  },
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
-  "main":"./plugin/index.js"
+  "repository": {},
+  "engines": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "./plugin/index.js"
 }
